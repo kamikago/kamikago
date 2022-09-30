@@ -1,4 +1,6 @@
-### Hi there 👋
+猫派です。
+
+markdown履修してないのでまだうまく書けません。
 
 <!--
 **kamikago/kamikago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
